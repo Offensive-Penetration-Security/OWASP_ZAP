@@ -29,7 +29,7 @@ chomp (my $clear_pwned = `sudo rm -rf  /home/zapcontainer/*report.*`);
 my $dt = time();
 my $dti = localtime();
 
-# Working...n# b@r@ k@t t1 n#@ 1@sn0
+# Working...n# b@r@1 k@t t1 n#@ 1@sn0
 #my $check = 1;
 #        if ($check > 0 ){
 #                chomp (my $dir = `sudo mkdir -p /home/zapcontainer/report.$dt`);
