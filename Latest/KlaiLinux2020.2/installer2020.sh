@@ -7,8 +7,8 @@ rm -rf /opt/*ZAP_*
 rm -rf /usr/bin/zapnu11secur1ty
   sleep 3;
 # cd /opt/
-  wget https://github.com/zaproxy/zaproxy/releases/download/w2021-02-08/ZAP_WEEKLY_D-2020-02-08.zip
-  unzip ZAP_WEEKLY_D-2020-04-27.zip
+  wget https://github.com/zaproxy/zaproxy/releases/download/v2.10.0/ZAP_2.10.0_Core.zip
+  unzip ZAP_2.10.0_Core.zip
       cd /root/
     ln -s /opt/ZAP_D-2020-04-27/zap.sh /usr/bin/zapnu11secur1ty
 exit 0;
